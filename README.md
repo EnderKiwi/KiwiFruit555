@@ -1,4 +1,13 @@
+# KiwiFruit555
+
 ### Hi there 👋
+
+I am a beginner in C++
+I am decent at Java
+
+Minecraft is my favorite game!
+
+I have a YouTube channel where I play Minecraft (It's bad lol)
 
 <!--
 **KiwiFruit555/KiwiFruit555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
