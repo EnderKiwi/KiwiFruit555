@@ -1,25 +1,6 @@
-# KiwiFruit555
+# C++ Hello World
 
-### Hi there 👋
+### Just a basic Hello World
 
-I am a beginner in C++
-I am decent at Java
-
-Minecraft is my favorite game!
-
-I have a YouTube channel where I play Minecraft (It's bad lol)
-
-<!--
-**KiwiFruit555/KiwiFruit555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ Hello World is a little more than the normal "Hello World!"
+When you run this hello world, you enter your name and it says, "Hello, [Name]!"
