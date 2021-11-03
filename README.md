@@ -24,9 +24,13 @@ I have a YouTube channel where I play Minecraft (It's bad lol but please subscri
 
 
 
-- [ ] Create a library
+- [x] Create a library
 
   - [ ] String control
+    - [ ] String case
+      - [ ] LowerCase
+      - [ ] UpperCase
+      - [ ] ToggleCase
     - [ ] Find character in string
       - [ ] Find string in string
     - [ ] Remove character from string
