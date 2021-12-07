@@ -16,6 +16,7 @@ I have a YouTube channel where I play Minecraft (It's bad lol but please subscri
 - 💬 Ask me about anything!
 - 📫 How to reach me: make an issue on this page because I don't like to share personal stuff
 - 😄 Pronouns: He/Him
+- 😆 Adjectives: Fat and jazzy
 - ⚡ Fun fact: I love cats (especially calico cats) and my favorite game is Minecraft
 
 ## Goals
