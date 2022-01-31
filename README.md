@@ -1,5 +1,5 @@
 # KiwiFruit555
-I am decent at C++
+I am decent at C
 I am decent at Java
 
 Minecraft is the best game ever.
@@ -7,7 +7,7 @@ Minecraft is the best game ever.
 I have a YouTube channel where I play Minecraft (It's bad lol but please subscribe)
 
 - 🔭 I’m currently working on school
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on nothing yet
 - 🤔 I’m looking for help with pretty much any repo I have
 - 💬 Ask me about anything!
